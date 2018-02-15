@@ -2,7 +2,7 @@
 layout: single
 title: Post Quality Guidelines
 permalink: /guidelines/post-quality-guidelines
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
+excerpt: "Guidelines for making sure your post gets approved!"
 share: false
 ---
 
