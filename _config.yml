@@ -241,6 +241,9 @@ compress_html:
     envs: development
 
 collections:
+  articles:
+    output: true
+    permalink: /:collection/:path
   guidelines:
     output: true
     permalink: /:collection/:path
