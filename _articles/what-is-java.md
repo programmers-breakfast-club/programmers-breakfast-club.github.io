@@ -74,8 +74,9 @@ public class Test {
 ### Why Java?
 There's as many reasons to use Java as there are platforms that support it.   It's mature, been around and is well passed the usual hype train that boosts a language and then leaves it behind.  There's lots of resources, both free and paid for learning Java and there's typically lots of job opportunities if that's something you're after.
 
-### Where can read more or learn more about Java?
 
+### Where can read more or learn more about Java?
+While not Java specifically, if you like this kind of article, looking for more content, no matter the language, please be sure to check out our facebook group, [Programmer's Breakfast Club](https://www.facebook.com/groups/211243649441756/)
 
 #### Wikipedia
 * [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
@@ -113,4 +114,5 @@ There's as many reasons to use Java as there are platforms that support it.   It
 
 #### Podcasts
 * [Java Pub House](http://javapubhouse.libsyn.com/)
+
 
